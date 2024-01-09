@@ -62,9 +62,5 @@
   "apc.stylesheet": {
       ".title-actions": "display: none !important",
       ".inline-titlebar-placeholder": "display: none !important"
-  },
-  "animations.Install-Method": "Apc Customize UI++",
-  "apc.imports": [
-      "file:///Users/kon/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.1/dist/updateHandler.js"
-  ]
+  }
 }

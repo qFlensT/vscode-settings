@@ -42,6 +42,7 @@
   "terminal.integrated.fontFamily": "RobotoMono Nerd Font Mono",
   "terminal.integrated.tabs.enabled": true,
   "terminal.integrated.fontSize": 14,
+  "editor.unicodeHighlight.includeStrings": false,
   "terminal.integrated.env.osx": {
     "FIG_NEW_SESSION": "1",
     "CW_NEW_SESSION": "1"

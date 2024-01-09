@@ -1,5 +1,4 @@
 {
-    
   "window.zoomLevel": 2,
   "workbench.colorTheme": "Field Lights",
   "workbench.iconTheme": "material-icon-theme",
@@ -10,8 +9,8 @@
   "workbench.layoutControl.enabled": false,
   "workbench.startupEditor": "none",
   "workbench.colorCustomizations": {
-      "sideBar.background": "#212733",
-      "terminalCursor.foreground": "#ffcc66"
+    "sideBar.background": "#212733",
+    "terminalCursor.foreground": "#ffcc66"
   },
   "editor.minimap.enabled": false,
   "editor.guides.indentation": false,
@@ -30,6 +29,9 @@
   "editor.fontSize": 14,
   "editor.fontLigatures": true,
   "editor.lineHeight": 1.4,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
   "breadcrumbs.enabled": false,
   "explorer.confirmDragAndDrop": false,
   "explorer.confirmDelete": false,
@@ -41,24 +43,24 @@
   "terminal.integrated.tabs.enabled": true,
   "terminal.integrated.fontSize": 14,
   "terminal.integrated.env.osx": {
-      "FIG_NEW_SESSION": "1",
-      "CW_NEW_SESSION": "1"
+    "FIG_NEW_SESSION": "1",
+    "CW_NEW_SESSION": "1"
   },
   "editor.accessibilitySupport": "off",
   "window.titleBarStyle": "custom",
   "apc.font.family": "Roboto Mono",
   "apc.menubar.compact": true,
   "apc.activityBar": {
-      "position": "bottom",
-      "size": 25
+    "position": "bottom",
+    "size": 25
   },
   "apc.statusBar": {
-      "fontSize": 10,
-      "position": "editor-bottom",
-      "height": 25
+    "fontSize": 10,
+    "position": "editor-bottom",
+    "height": 25
   },
   "apc.stylesheet": {
-      ".title-actions": "display: none !important",
-      ".inline-titlebar-placeholder": "display: none !important"
+    ".title-actions": "display: none !important",
+    ".inline-titlebar-placeholder": "display: none !important"
   }
 }

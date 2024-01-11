@@ -52,6 +52,7 @@
   "extensions.ignoreRecommendations": true,
   "files.autoSave": "off",
   "files.insertFinalNewline": true,
+  "js/ts.implicitProjectConfig.checkJs": true,
   "material-icon-theme.hidesExplorerArrows": true,
   "security.workspace.trust.untrustedFiles": "open",
   "terminal.integrated.cursorBlinking": true,

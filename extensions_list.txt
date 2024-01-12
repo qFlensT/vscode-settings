@@ -5,6 +5,8 @@ deerawan.vscode-dash
 drcika.apc-extension
 dustypomerleau.rust-syntax
 esbenp.prettier-vscode
+GitHub.copilot
+GitHub.copilot-chat
 jock.svg
 miguelsolorio.min-theme
 mrmlnc.vscode-postcss-sorting

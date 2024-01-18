@@ -3,9 +3,6 @@
     "position": "bottom",
     "size": 25
   },
-  "apc.electron": {
-    "titleBarStyle": "hidden"
-  },
   "apc.font.family": "Roboto Mono",
   "apc.menubar.compact": true,
   "apc.statusBar": {
@@ -64,17 +61,17 @@
   "terminal.integrated.fontFamily": "RobotoMono Nerd Font Mono",
   "terminal.integrated.fontSize": 14,
   "terminal.integrated.tabs.enabled": true,
-  "window.titleBarStyle": "native",
+  "window.titleBarStyle": "custom",
   "window.zoomLevel": 2,
   "workbench.colorCustomizations": {
     "sideBar.background": "#212733",
     "terminalCursor.foreground": "#ffcc66"
   },
   "workbench.colorTheme": "Field Lights",
-  "workbench.editor.showTabs": "single",
+  "workbench.editor.showTabs": "multiple",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.layoutControl.enabled": false,
-  "workbench.sideBar.location": "right",
+  "workbench.sideBar.location": "left",
   "workbench.startupEditor": "none",
   "workbench.tree.renderIndentGuides": "none"
 }

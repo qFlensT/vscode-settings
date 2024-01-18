@@ -65,10 +65,10 @@
     "terminalCursor.foreground": "#ffcc66"
   },
   "workbench.colorTheme": "Field Lights",
-  "workbench.editor.showTabs": "single",
+  "workbench.editor.showTabs": "multiple",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.layoutControl.enabled": false,
-  "workbench.sideBar.location": "right",
+  "workbench.sideBar.location": "left",
   "workbench.startupEditor": "none",
   "workbench.tree.renderIndentGuides": "none"
 }

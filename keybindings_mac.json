@@ -1,30 +1,35 @@
 [
   {
-    "key": "cmd+u",
-    "command": "github.copilot.terminal.suggestCommand",
-    "when": "terminalFocus"
-  },
-  {
-    "key": "cmd+u",
-    "command": "-github.copilot.terminal.suggestCommand",
-    "when": "terminalFocus"
-  },
-  {
-    "key": "cmd+u",
-    "command": "inlineChat.start",
-    "when": "editorFocus && inlineChatHasProvider && !editorReadonly"
-  },
-  {
-    "key": "cmd+u",
-    "command": "-inlineChat.start",
-    "when": "editorFocus && inlineChatHasProvider && !editorReadonly"
-  },
-  {
-    "key": "ctrl+s",
+    "key": "cmd+s",
     "command": "extension.multiCommand.execute",
     "args": {
       "sequence": ["postcssSorting.execute", "workbench.action.files.save"]
     },
     "when": "editorLangId == css"
+  },
+  {
+    "key": "cmd+u",
+    "command": "github.copilot.terminal.suggestCommand",
+    "when": "terminalFocus"
+  },
+  {
+    "key": "cmd+i",
+    "command": "-github.copilot.terminal.suggestCommand",
+    "when": "terminalFocus"
+  },
+  {
+    "key": "cmd+k u",
+    "command": "inlineChat.start",
+    "when": "editorFocus && inlineChatHasProvider && !editorReadonly"
+  },
+  {
+    "key": "cmd+i",
+    "command": "-inlineChat.start",
+    "when": "editorFocus && inlineChatHasProvider && !editorReadonly"
+  },
+  {
+    "key": "cmd+k i",
+    "command": "-inlineChat.start",
+    "when": "editorFocus && inlineChatHasProvider && !editorReadonly"
   }
 ]

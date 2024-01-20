@@ -1,27 +1,21 @@
-// Place your key bindings in this file to override the defaultsauto[]
 [
   {
-    "key": "ctrl+u",
-    "command": "-cursorUndo",
-    "when": "textInputFocus"
-  },
-  {
-    "key": "ctrl+u",
+    "key": "cmd+u",
     "command": "github.copilot.terminal.suggestCommand",
     "when": "terminalFocus"
   },
   {
-    "key": "ctrl+i",
+    "key": "cmd+u",
     "command": "-github.copilot.terminal.suggestCommand",
     "when": "terminalFocus"
   },
   {
-    "key": "ctrl+u",
+    "key": "cmd+u",
     "command": "inlineChat.start",
     "when": "editorFocus && inlineChatHasProvider && !editorReadonly"
   },
   {
-    "key": "ctrl+i",
+    "key": "cmd+u",
     "command": "-inlineChat.start",
     "when": "editorFocus && inlineChatHasProvider && !editorReadonly"
   },

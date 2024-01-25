@@ -23,3 +23,4 @@ usernamehw.errorlens
 vadimcn.vscode-lldb
 wix.vscode-import-cost
 ryuta46.multi-command
+bradlc.vscode-tailwindcss

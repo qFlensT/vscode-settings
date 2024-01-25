@@ -348,5 +348,8 @@
   "workbench.layoutControl.enabled": false,
   "workbench.sideBar.location": "left",
   "workbench.startupEditor": "none",
-  "workbench.tree.renderIndentGuides": "none"
+  "workbench.tree.renderIndentGuides": "none",
+  "editor.quickSuggestions": {
+    "strings": "on"
+  }
 }
